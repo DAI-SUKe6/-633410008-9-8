@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>รายงานการวิเคราะห์พื้นที่</title>
-  <!-- นำเข้าไฟล์ CSS ของ Bootstrap -->
+  
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 </head>
 
@@ -68,7 +68,6 @@
     </form>
   </div>
 
-  <!-- นำเข้าไฟล์ JavaScript ของ Bootstrap -->
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </body>
 
